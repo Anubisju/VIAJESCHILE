@@ -2,3 +2,24 @@
     overflow: scroll;
     position: relative;
 }
+
+.fa-solid {
+    background-color: rgb(58, 184, 243);
+padding-left: 50%;
+padding-right: 50%;
+
+}
+
+.row{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.primero{
+    background-color: black;
+}
+.segundo{
+    text-align: center;
+    background-color: black;
+    color: beige;
+    
+}
