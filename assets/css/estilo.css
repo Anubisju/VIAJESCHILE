@@ -26,5 +26,17 @@ padding-right: 50%;
 
 .segundo{
     background-color: rgb(58, 184, 243) !important;
+    margin-bottom: 1%;
 }
 
+.piedepagina{
+    background-color:  rgb(58, 184, 243) ;
+    padding-top: 1% ;
+    padding-bottom: 1%;
+}
+
+.fa-brands{
+    margin-top: 5%;
+    height: 15%;
+    width: 15%;
+}
